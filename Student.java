@@ -1,7 +1,8 @@
 public class Student {
 
     // TODO: khai bao cac thuoc tinh cho Student
-    // Just a test
+    // Test pull
+    //Test push
     private String name, id, email, group;
     // TODO: khai bao cac phuong thuc getter, setter cho Student
     public String getName()
